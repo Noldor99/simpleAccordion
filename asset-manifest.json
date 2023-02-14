@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/simpleAccordion/static/css/main.e6c13ad2.css",
-    "main.js": "/simpleAccordion/static/js/main.0439bc3e.js",
+    "main.js": "/simpleAccordion/static/js/main.c9ecc944.js",
     "index.html": "/simpleAccordion/index.html",
     "main.e6c13ad2.css.map": "/simpleAccordion/static/css/main.e6c13ad2.css.map",
-    "main.0439bc3e.js.map": "/simpleAccordion/static/js/main.0439bc3e.js.map"
+    "main.c9ecc944.js.map": "/simpleAccordion/static/js/main.c9ecc944.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0439bc3e.js"
+    "static/js/main.c9ecc944.js"
   ]
 }
